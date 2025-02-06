@@ -67,6 +67,10 @@ O projeto consiste em três classes principais:
 
 Jonathan de Oliveira Rocha
 
+## Java Version
+
+23.0.2
+
 ## Data
 
 06/02/2025
