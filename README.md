@@ -2,6 +2,15 @@
 
 Este projeto é uma aplicação Java que demonstra o gerenciamento básico de funcionários em uma empresa.
 
+## Preview
+
+<table width="100%"> 
+<tr>
+<td width="100%">
+<img src="./SAMPLE.png">
+</td> 
+</table>
+
 ## Descrição
 
 O programa realiza as seguintes operações:
